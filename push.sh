@@ -1,4 +1,4 @@
-git checkout -b $1
+# git checkout -b $1
 
 git add .
 
