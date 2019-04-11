@@ -1,4 +1,6 @@
-git checkout -b $1
+# git checkout -b $1
+
+## add user file
 
 git add .
 
